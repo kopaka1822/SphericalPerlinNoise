@@ -1,0 +1,6 @@
+[submodule "PerlinNoise"]
+	path = PerlinNoise
+	url = https://github.com/Reputeless/PerlinNoise.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
